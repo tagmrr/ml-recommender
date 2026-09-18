@@ -8,9 +8,11 @@ venv/
 # Data
 data/ml-100k/
 *.db
+data/*.db
 
 # Models
 models/*.pkl
+models/*.pth
 
 # Env
 .env
